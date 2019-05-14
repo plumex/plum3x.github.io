@@ -6,8 +6,9 @@
 title: Plum3X.dev
 subtitle: Happy Hacking
 description:
-keywords:
+keywords: Hexo,Linux,Embeded Systems,ARM
 author: Wenham Xie
+avatar: /images/favicon.png
 language: en
 timezone: Asia/Chongqing
 
@@ -89,3 +90,19 @@ deploy:
   repo: https://github.com/plumex/plum3x.github.io.git
   branch: published
   message:
+
+# Content
+#fancybox: true
+
+# Personalization
+twitter: plumex
+google-analytics: UA-137195098-1
+
+# Header
+menu:
+  Home: /
+  About: /about
+  Archives: /archives
+  Tags: /tags
+  Links: /
+
