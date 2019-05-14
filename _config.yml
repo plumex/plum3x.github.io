@@ -75,7 +75,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: anatole
+theme: jekyll-theme-cayman
 
 archive_generator:
     per_page: 0
